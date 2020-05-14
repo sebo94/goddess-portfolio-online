@@ -1,0 +1,27 @@
+.Projects {
+  background-color: #f8f9fa;
+}
+
+.Container {
+  max-width: 1170px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 120px 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Filters {
+  margin-bottom: 80px;
+}
+
+.Button {
+  background-color: #948a72;
+  border: none;
+  color: #eee;
+  padding: 10px 20px;
+  margin: 0 20px;
+  cursor: pointer;
+}

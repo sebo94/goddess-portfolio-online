@@ -1,0 +1,14 @@
+.NavigationItem {
+  align-self: center;
+  text-align: center;
+}
+
+.Link {
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.Active {
+  color: #948a72;
+  transition: color 50ms ease;
+}

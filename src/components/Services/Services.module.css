@@ -1,0 +1,56 @@
+.Services {
+  background-color: #f8f9fa;
+}
+
+.Container {
+  max-width: 1170px;
+  padding: 120px 15px;
+  margin: 0 auto;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.Column {
+  flex: 0 0 50%;
+}
+
+.Content {
+  padding: 50px 0;
+  position: relative;
+}
+
+.ContentBox {
+  position: relative;
+  z-index: 10;
+  margin-left: -75px;
+  padding: 15px;
+}
+
+.ContentBoxInner {
+  padding: 25px 15px 25px 20px;
+  background-color: #f8f9fa;
+}
+
+.Counters {
+  margin-left: 100px;
+  padding-left: 100px;
+}
+
+.Title {
+  margin-top: 0;
+  margin-bottom: 25px;
+  margin-left: 40px;
+  font-size: 36px;
+  line-height: 1.3;
+}
+
+.Image {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.Cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
