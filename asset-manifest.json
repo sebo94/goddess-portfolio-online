@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/goddess-portfolio-online/static/css/main.7b84dade.chunk.css",
-    "main.js": "/goddess-portfolio-online/static/js/main.b0939e8a.chunk.js",
-    "main.js.map": "/goddess-portfolio-online/static/js/main.b0939e8a.chunk.js.map",
+    "main.css": "/goddess-portfolio-online/static/css/main.d3781bc1.chunk.css",
+    "main.js": "/goddess-portfolio-online/static/js/main.da8d7da8.chunk.js",
+    "main.js.map": "/goddess-portfolio-online/static/js/main.da8d7da8.chunk.js.map",
     "runtime-main.js": "/goddess-portfolio-online/static/js/runtime-main.7f4ec617.js",
     "runtime-main.js.map": "/goddess-portfolio-online/static/js/runtime-main.7f4ec617.js.map",
     "static/css/2.31152ae0.chunk.css": "/goddess-portfolio-online/static/css/2.31152ae0.chunk.css",
-    "static/js/2.af8341de.chunk.js": "/goddess-portfolio-online/static/js/2.af8341de.chunk.js",
-    "static/js/2.af8341de.chunk.js.map": "/goddess-portfolio-online/static/js/2.af8341de.chunk.js.map",
+    "static/js/2.7ec87aef.chunk.js": "/goddess-portfolio-online/static/js/2.7ec87aef.chunk.js",
+    "static/js/2.7ec87aef.chunk.js.map": "/goddess-portfolio-online/static/js/2.7ec87aef.chunk.js.map",
     "index.html": "/goddess-portfolio-online/index.html",
-    "precache-manifest.543c812f498afef9a867a61d3ef8544b.js": "/goddess-portfolio-online/precache-manifest.543c812f498afef9a867a61d3ef8544b.js",
+    "precache-manifest.90c24443ad8a7ce05e175c2cc8bb6103.js": "/goddess-portfolio-online/precache-manifest.90c24443ad8a7ce05e175c2cc8bb6103.js",
     "service-worker.js": "/goddess-portfolio-online/service-worker.js",
     "static/css/2.31152ae0.chunk.css.map": "/goddess-portfolio-online/static/css/2.31152ae0.chunk.css.map",
-    "static/css/main.7b84dade.chunk.css.map": "/goddess-portfolio-online/static/css/main.7b84dade.chunk.css.map",
-    "static/js/2.af8341de.chunk.js.LICENSE.txt": "/goddess-portfolio-online/static/js/2.af8341de.chunk.js.LICENSE.txt",
+    "static/css/main.d3781bc1.chunk.css.map": "/goddess-portfolio-online/static/css/main.d3781bc1.chunk.css.map",
+    "static/js/2.7ec87aef.chunk.js.LICENSE.txt": "/goddess-portfolio-online/static/js/2.7ec87aef.chunk.js.LICENSE.txt",
     "static/media/4k-screensaver-.jpg": "/goddess-portfolio-online/static/media/4k-screensaver-.c7dcb97d.jpg",
     "static/media/4k-wallpapers-for-android.jpg": "/goddess-portfolio-online/static/media/4k-wallpapers-for-android.9f8f2ea2.jpg",
     "static/media/4k-wallpapers-for-pc.jpg": "/goddess-portfolio-online/static/media/4k-wallpapers-for-pc.728667a3.jpg",
     "static/media/54509208.jpg": "/goddess-portfolio-online/static/media/54509208.986d8190.jpg",
     "static/media/6308362bb768cc6a787edf7463b41d5e.jpg": "/goddess-portfolio-online/static/media/6308362bb768cc6a787edf7463b41d5e.27aa81ea.jpg",
     "static/media/Abs Pic 1.png": "/goddess-portfolio-online/static/media/Abs Pic 1.758a47b3.png",
-    "static/media/fontello.css": "/goddess-portfolio-online/static/media/fontello.9bcebcce.woff2",
+    "static/media/fontello.css": "/goddess-portfolio-online/static/media/fontello.e1bff831.eot",
     "static/media/goddess-logo.png": "/goddess-portfolio-online/static/media/goddess-logo.500a2f78.png",
     "static/media/home-1.jpeg": "/goddess-portfolio-online/static/media/home-1.80aecd1b.jpeg",
     "static/media/home-2.jpeg": "/goddess-portfolio-online/static/media/home-2.ab5fbc5a.jpeg",
@@ -39,8 +39,8 @@
   "entrypoints": [
     "static/js/runtime-main.7f4ec617.js",
     "static/css/2.31152ae0.chunk.css",
-    "static/js/2.af8341de.chunk.js",
-    "static/css/main.7b84dade.chunk.css",
-    "static/js/main.b0939e8a.chunk.js"
+    "static/js/2.7ec87aef.chunk.js",
+    "static/css/main.d3781bc1.chunk.css",
+    "static/js/main.da8d7da8.chunk.js"
   ]
 }

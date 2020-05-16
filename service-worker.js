@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/goddess-portfolio-online/precache-manifest.543c812f498afef9a867a61d3ef8544b.js"
+  "/goddess-portfolio-online/precache-manifest.90c24443ad8a7ce05e175c2cc8bb6103.js"
 );
 
 self.addEventListener('message', (event) => {

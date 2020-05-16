@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "328de17ff9934a0f1f118f2bc698bd04",
+    "revision": "5d7228eeed803e1c3c57861dbec8ce4d",
     "url": "/goddess-portfolio-online/index.html"
   },
   {
-    "revision": "50ea5ae3f61bd505a38c",
+    "revision": "2c049f9b675e1a3306fb",
     "url": "/goddess-portfolio-online/static/css/2.31152ae0.chunk.css"
   },
   {
-    "revision": "f015a1dabc136387efd4",
-    "url": "/goddess-portfolio-online/static/css/main.7b84dade.chunk.css"
+    "revision": "0bed5e7484112d58f739",
+    "url": "/goddess-portfolio-online/static/css/main.d3781bc1.chunk.css"
   },
   {
-    "revision": "50ea5ae3f61bd505a38c",
-    "url": "/goddess-portfolio-online/static/js/2.af8341de.chunk.js"
+    "revision": "2c049f9b675e1a3306fb",
+    "url": "/goddess-portfolio-online/static/js/2.7ec87aef.chunk.js"
   },
   {
     "revision": "57a18efbd08edbcdee2a40290b4baf62",
-    "url": "/goddess-portfolio-online/static/js/2.af8341de.chunk.js.LICENSE.txt"
+    "url": "/goddess-portfolio-online/static/js/2.7ec87aef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f015a1dabc136387efd4",
-    "url": "/goddess-portfolio-online/static/js/main.b0939e8a.chunk.js"
+    "revision": "0bed5e7484112d58f739",
+    "url": "/goddess-portfolio-online/static/js/main.da8d7da8.chunk.js"
   },
   {
     "revision": "dc3c92664916b5f1ff79",
@@ -52,24 +52,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/goddess-portfolio-online/static/media/Abs Pic 1.758a47b3.png"
   },
   {
-    "revision": "167c36d23abe91502126f934f05370d7",
-    "url": "/goddess-portfolio-online/static/media/fontello.167c36d2.eot"
+    "revision": "245607ec7f241fa9386a49e328eda25a",
+    "url": "/goddess-portfolio-online/static/media/fontello.245607ec.woff2"
   },
   {
-    "revision": "50c6bc7efbdbaf3ac72d994abc38bb51",
-    "url": "/goddess-portfolio-online/static/media/fontello.50c6bc7e.woff"
+    "revision": "63518d2f510395e6b6e4e05708243026",
+    "url": "/goddess-portfolio-online/static/media/fontello.63518d2f.woff"
   },
   {
-    "revision": "529539bde5f87b07444bd6c11a178251",
-    "url": "/goddess-portfolio-online/static/media/fontello.529539bd.svg"
+    "revision": "8c40f81b7687bcea90ea6c95ef21804c",
+    "url": "/goddess-portfolio-online/static/media/fontello.8c40f81b.svg"
   },
   {
-    "revision": "5797178e61cba8da4957a31e67df1976",
-    "url": "/goddess-portfolio-online/static/media/fontello.5797178e.ttf"
+    "revision": "dda77205d1a47aedf5b5ca0040e547c8",
+    "url": "/goddess-portfolio-online/static/media/fontello.dda77205.ttf"
   },
   {
-    "revision": "9bcebccefa22870fba1ab4ba4c66f058",
-    "url": "/goddess-portfolio-online/static/media/fontello.9bcebcce.woff2"
+    "revision": "e1bff83155df7230cf784200b7d92927",
+    "url": "/goddess-portfolio-online/static/media/fontello.e1bff831.eot"
   },
   {
     "revision": "500a2f78b092fd4b6e1187bfca488c58",
