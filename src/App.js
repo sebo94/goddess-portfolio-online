@@ -6,7 +6,9 @@ import Home from "./components/Home/Home";
 import About from "./components/About/About";
 import Projects from "./containers/Projects/Projects";
 import Services from "./components/Services/Services";
-import InstagramPosts from './components/InstagramPosts/InstagramPosts';
+import Contact from "./components/Contact/Contact";
+import Footer from "./components/Footer/Footer";
+import InstagramPosts from "./components/InstagramPosts/InstagramPosts";
 
 class App extends Component {
   // state = {
@@ -37,6 +39,9 @@ class App extends Component {
         <Projects />
         <About />
         <Services />
+        <About />
+        <Contact />
+        <Footer />
         <InstagramPosts />
       </Layout>
     );

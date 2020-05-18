@@ -1,48 +1,20 @@
 import React from "react";
+import Icon from "../Icon/Icon";
+import classes from "./Follow.module.css";
+import icons from "./data";
 
-const follow = (props) => (
-  <div>
-    <ul
-      style={{
-        listStyle: "none",
-        display: "flex",
-        padding: "0",
-        marginBottom: "50px",
-      }}
-    >
-      <li>
-        <a href="www.google.com">
-          <i
-            className="icon-pinterest"
-            style={{ fontSize: "18px", color: "#222", padding: "0 4px" }}
-          />
-        </a>
-      </li>
-      <li>
-        <a href="www.google.com">
-          <i
-            className="icon-instagram"
-            style={{ fontSize: "18px", color: "#222", padding: "0 4px" }}
-          />
-        </a>
-      </li>
-      <li>
-        <a href="www.google.com">
-          <i
-            className="icon-facebook"
-            style={{ fontSize: "18px", color: "#222", padding: "0 4px" }}
-          />
-        </a>
-      </li>
-      <li>
-        <a href="www.google.com">
-          <i
-            className="icon-twitter"
-            style={{ fontSize: "18px", color: "#222", padding: "0 4px" }}
-          />
-        </a>
-      </li>
-    </ul>
+const follow = () => (
+  <div
+    data-aos="fade-up"
+    data-aos-delay="800"
+    data-aos-duration="800"
+    data-aos-easing="ease-in"
+  >
+    <h1 className={classes.Title}>Follow Me</h1>
+    <p className={classes.Text}>Let us be social</p>
+    {icons.map((icon) => (
+      <Icon link={icon.link} class={icon.class} color={icon.color} />
+    ))}
   </div>
 );
 

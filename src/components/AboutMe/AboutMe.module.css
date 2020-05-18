@@ -1,3 +1,9 @@
+.AboutMe {
+  box-sizing: border-box;
+  flex: 0 0 41.666667%;
+  padding: 0 15px;
+}
+
 .Title {
   margin: 0;
   color: #eee;
